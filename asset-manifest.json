@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/learning_cards/static/css/main.37640d0d.css",
+    "main.js": "/learning_cards/static/js/main.1faa10ea.js",
+    "static/js/787.c3e71869.chunk.js": "/learning_cards/static/js/787.c3e71869.chunk.js",
+    "static/media/editIcon.png": "/learning_cards/static/media/editIcon.545bc6345da3171ae4bd.png",
+    "static/media/Packs.svg": "/learning_cards/static/media/Packs.376603471d5b69d48ac6e664da226596.svg",
+    "static/media/error404.png": "/learning_cards/static/media/error404.76ee353c5b1b959f8913.png",
+    "static/media/noAvatar.png": "/learning_cards/static/media/noAvatar.6c53c0a1c12e6d7eaa36.png",
+    "index.html": "/learning_cards/index.html",
+    "static/media/IconSearch.svg": "/learning_cards/static/media/IconSearch.bfc80356bd812126b5b9.svg",
+    "static/media/Profile.svg": "/learning_cards/static/media/Profile.b2a040590f850e65b77f9013668b4d3f.svg",
+    "static/media/no-view.svg": "/learning_cards/static/media/no-view.ef3570e6475960ea172b.svg",
+    "static/media/view.svg": "/learning_cards/static/media/view.bc05a0cb437d19c6e4d9.svg",
+    "static/media/backPage.svg": "/learning_cards/static/media/backPage.a2b01485f9abde8e0eac675707165735.svg",
+    "main.37640d0d.css.map": "/learning_cards/static/css/main.37640d0d.css.map",
+    "main.1faa10ea.js.map": "/learning_cards/static/js/main.1faa10ea.js.map",
+    "787.c3e71869.chunk.js.map": "/learning_cards/static/js/787.c3e71869.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37640d0d.css",
+    "static/js/main.1faa10ea.js"
+  ]
+}
